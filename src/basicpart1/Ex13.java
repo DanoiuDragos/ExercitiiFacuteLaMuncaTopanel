@@ -1,4 +1,4 @@
-package src.com.basicpart1;
+package src.basicpart1;
 
 //Scrieți un program Java pentru a imprima aria și perimetrul unui dreptunghi.
 //Test Data:

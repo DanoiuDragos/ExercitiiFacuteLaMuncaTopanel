@@ -17,7 +17,7 @@ public class TestCircle {
         // Construiți instanța c2 invocând al doilea constructor
         // cu raza dată și culoarea implicită.
 
-        Circle c2 = new Circle(2.0);
+        Circle c2 = new Circle(5.0);
         System.out.println("The circle has radius of "
                 + c2.getRadius() + " and area of " + c2.getArea());
     }

@@ -1,4 +1,4 @@
-package src.com.basicpart1;
+package src.basicpart1;
 
 
 //Write a Java program to print the area and perimeter of a circle

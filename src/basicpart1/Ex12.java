@@ -1,4 +1,4 @@
-package src.com.basicpart1;
+package src.basicpart1;
 
 
 //Scrieți un program Java care ia trei numere ca intrare pentru a calcula

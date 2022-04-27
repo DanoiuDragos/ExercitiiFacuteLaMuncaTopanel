@@ -1,4 +1,4 @@
-package src.com.basicpart1;
+package src.basicpart1;
 
 //Write a Java program to print an American flag on the screen.
 //Scrieți un program Java pentru a imprima un steag american pe ecran.

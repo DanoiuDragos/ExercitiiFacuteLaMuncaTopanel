@@ -1,4 +1,4 @@
-package src.com.basicpart1;
+package src.basicpart1;
 
 //Write a Java program to compute the specified expressions and print the output.
 //Test Data:

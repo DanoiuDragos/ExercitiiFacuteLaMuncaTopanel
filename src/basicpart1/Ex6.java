@@ -1,4 +1,4 @@
-package src.com.basicpart1;
+package src.basicpart1;
 
 //Write a Java program to print the sum (addition), multiply, subtract, divide and remainder of two numbers
 //125 + 24 = 149

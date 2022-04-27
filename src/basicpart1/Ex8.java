@@ -1,4 +1,4 @@
-package src.com.basicpart1;
+package src.basicpart1;
 
 public class Ex8 {
     public static void main(String[] args) {

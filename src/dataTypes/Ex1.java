@@ -1,4 +1,4 @@
-package dataTypes;
+package src.dataTypes;
 
 //Write a Java program to convert temperature from Fahrenheit to Celsius degree.
 //Scrieți un program Java pentru a converti temperatura din Fahrenheit în grade Celsius.
